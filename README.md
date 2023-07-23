@@ -10,7 +10,7 @@
 
 - 👨‍💻 Most of my activity is [here](https://instagram.com/niloofarvafaei.ir)
 
-- 📄 [Know about my Resume](https://niloofarvafaei.ir)
+- 📄 Know about my [Resume](https://niloofarvafaei.ir)
 
 - ⚡ Fun fact **There's no place like localhost!**
 
