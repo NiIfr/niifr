@@ -3,7 +3,7 @@
 
 <a href="https://discord.gg/nGe6Rv7Cu7"><img src="https://img.shields.io/discord/968569477253967902.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
-[![](https://discord.c99.nl/widget/theme-1/888526993778438175.png)](https://discord.gg/nGe6Rv7Cu7)
+[![](https://discord.c99.nl/widget/theme-4/888526993778438175.png)](https://discord.gg/nGe6Rv7Cu7)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=niifr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NilooFar Vafaei" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niifr&layout=compact&theme=buefy&hide_border=true" /></a>
