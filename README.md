@@ -1,4 +1,8 @@
 ---
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=NiIfr)
+
 #### Discord
 
 <a href="https://discord.gg/nGe6Rv7Cu7"><img src="https://img.shields.io/discord/968569477253967902.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
