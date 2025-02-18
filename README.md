@@ -29,11 +29,5 @@
 
 
 
-<h3>Support:</h3>
-<a href="https://bmc.link/niloofarvafaei"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" /></a>
-<a href="https://www.coffeebede.com/niloofarvafaei" ><img width="210px" height="50px" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-
-
-
 
 
